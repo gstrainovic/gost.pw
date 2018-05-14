@@ -3,7 +3,7 @@ sidebar:
     title: Lebenslauf/CV/Resume - Goran Strainovic
     url: 'http://webjeda.com'
     baseurl: '/online-cv' #change it according to your repository name
-    about: true # set to False or comment line if you want to remove the "How to use?" in the sidebar
+    about: false # set to False or comment line if you want to remove the "How to use?" in the sidebar
     
     # Profile information
     name: Strainovic Goran
@@ -43,10 +43,18 @@ career-profile:
     text: 'Was nicht passt wird passend gemacht.  Ich bin ein Perfektionist mit viele Skills , der durch Kreativität und Ausdauer Herausforderungen meistert und Ziele erreicht.' 
 
 studies: 
+    	
+    Schulbildung:
+    1989 – 1998	Primar und Oberstufe in Niederuzwil 
+    Weiterbildungen:
+    2000 – 2001   Informatik – Anwender SIZ (5.2)
+    2002 – 2003	PC/LAN – Supporter SIZ (4.7)
+
+
     - education:
-      degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+      degree: Praktikum als RTV- Elektriker 
+      university: RTV Bohren Gossau
+      time: 1998 - 1999
       details: "Describe your study here lorem ipsum dolor sit amet, consectetuer adipiscing
       elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et
       magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec,
@@ -134,3 +142,51 @@ skills:
 
 footer: 
     text: 'Designed with <i class="fa fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a> for developers'
+
+
+Geburtsdatum:			18.11.1981
+Zivilstand:				verheiratet
+Nationalität				Doppelbürger Schweiz / Serbien
+Wohnort:				9323 Steinach
+Strasse:				Bahnstrasse 9b
+
+Berufliche Erfahrungen
+
+2013 – heute				Variosystems
+					Avor-Techniker
+Import, Ablage und Aufarbeitung von Kundendaten in SAP, Office, Fileserver , Aegis (Stückliste , CAD) und Intranet-Ticketsystem
+Software-Process-Optimierung:
+Programmieren von Software zur Zeiteinsparung von Aufgaben in Office, SAP, Intranet und andere Anwendungen
+
+2012 – 2013				Variosystems
+					Elektroniker
+Prüfen und reparieren von elektronischen Baugruppen auf ICT, FT und FPT
+Optimieren von Prüfprogrammen
+Wartung von Testsysteme
+Software-Process-Optimierung für Elektroniker
+
+2003 - 2012				Variosystems
+dTester und Schichtleiter
+Prüfen von elektronischen Baugruppen auf ICT , FT und FPT
+Wartung von Testsysteme
+Software-Process-Optimierung für Test-Bediener
+
+2002 – 2003				OVB
+					Finanzberater
+Krankenkassen, Versicherungen , Lebensversicherungen usw. vergleichen und Einsparungen präsentieren
+
+2001 – 2003				Inauen Maschinen AG
+Maschinenmonteur 
+
+2000 – 2001				Huber + Suhner AG
+Zusammenbau und Kalibration von GSM-Filter
+
+1999 – 2000				Aluwag AG
+Stanzen und Schleifen von Aluminiumteile
+
+EDV-Kenntnisse:
+Microsoft Office
+SAP
+Programmiersprachen : VBA, AutoIT, F# , VB.NET 
+Sprachkenntnisse:
+
