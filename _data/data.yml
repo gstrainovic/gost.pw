@@ -1,54 +1,46 @@
 sidebar:
     # Site Settings
-    title: My Resume
+    title: Lebenslauf/CV/Resume - Goran Strainovic
     url: 'http://webjeda.com'
     baseurl: '/online-cv' #change it according to your repository name
     about: true # set to False or comment line if you want to remove the "How to use?" in the sidebar
     
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
+    name: Strainovic Goran
+    tagline: Digitaler Allrounder
     pic: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
     
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    github: sharu725
-    twitter: '@webjeda'
+    email: info@strainovic-it.ch    
+    phone: 079 411 71 77
+    website: strainovic-it.ch #do not add http://
+    linkedin: goran-strainovic
+    github: gstrainovic
+    twitter: '@strainovic_it'
 
     languages:
         - language:
-          idiom: English
+          idiom: German
           level: Native
         - language:
-          idiom: French
+          idiom: English
           level: Professional
         - language:
-          idiom: Spanish
+          idiom: Serbian
           level: Professional
         
     interests:
         - interest:
-          item: Climbing
+          item: Filme
           link:
         - interest:
-          item: Snowboarding
-          link:
-        - interest:
-          item: Cooking
+          item: Programmierung
           link:
 
-        
-
-
-
-
+       
 career-profile: 
-    title: Career Profile
-    text: 'Summarise your career here lorem ipsum dolor sit amet, consectetuer adipiscing elit.You can <a href="#" target="_blank">download this free resume/CV template here</a>. Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu.'
-
+    title: Profil
+    text: 'Was nicht passt wird passend gemacht. Ich bin ein Perfektionist mit viele Skills , der durch kreativität und ausdauer die Herausforderungen und Ziele erreicht.' 
 
 studies: 
     - education:
