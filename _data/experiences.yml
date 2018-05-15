@@ -1,11 +1,17 @@
 - experience:
-  role: Avor-Techniker
+  role: Technische Avor
   time: 2014 - Heute
   company: Variosystems , Steinach
   details: "
   <ul>
-    <li>tet</li>
-  
+    <li>Kundendaten für die Produktion und Avor aufbearbeiten</li>
+    <li>Betreung von Projektmanager / Kunde / Avor über Ticketsystem / Email / Telefon</li>
+    <li>SAP: Stückliste Kunde mit EMS ableichen, Artikel- und Baugruppenartikel eröffnung</li>
+    <li>PCB-Gerberdaten für die Produktion optimieren</li>
+    <li>Nutzenzeichnung erstellen</li>
+    <li>CAD in Aegis importieren und SMD/AOI Programme erstellen</li>
+    <li>PCB-Hersteller Fragen beantworten</li>
+    <li>Pastenschablonenbestellung</li>
   </ul>"
 - experience:
   role: Senior Software Engineer
