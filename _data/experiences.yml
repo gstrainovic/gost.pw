@@ -17,18 +17,23 @@
     <li>Prozessoptimierung mit selbstgeschriebener Software</li>
   </ul>"
 - experience:
-  role: Senior Software Engineer
-  time: 2014 - 2015
-  company: Google, London
-  details: "Describe your role here lorem ipsum dolor sit amet, consectetuer adipiscing
-  elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et
-  magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec,
-  pellentesque eu, pretium quis, sem."
+  role: Elektroniker
+  time: 2012 - 2013
+  company: Variosystems , Steinach
+  details: "
+  <ul>
+    <li>Prüfen und reparieren von elektronischen Baugruppen auf ICT, FT und FPT (SPEA)</li>
+    <li>Wartung der Testsysteme</li>
+    <li>Optimieren von Prüfprogrammen</li>
+    <li>Prozessoptimierung mit selbstgeschriebener Software</li>
+  </ul>"
 - experience:
-  role: UI Developer
-  time: 2012 - 2014
-  company: Amazon, London
-  details: "Describe your role here lorem ipsum dolor sit amet, consectetuer adipiscing
-  elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et
-  magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec,
-  pellentesque eu, pretium quis, sem."
+  role: Test Operator
+  time: 2003 - 2012
+  company: Variosystems , Steinach
+  details: "
+  <ul>
+    <li>Prüfen von elektronischen Baugruppen auf ICT, FT und FPT (SPEA)</li>
+    <li>Wartung der Testsysteme</li>
+    <li>Prozessoptimierung mit selbstgeschriebener Software</li>
+  </ul>"
