@@ -4,12 +4,12 @@ projects:
     title: Prozessoptimierung
     link: "#"
     tagline: "Zeiterspranis für das ganze Prüffeld bei Variosystens, durch den Wegfall von manuellem Eintragungen in Excel.
-    Interaktion mit Excel und Testprogramm. Erstellt mit Autoit und VBA"
+    Interaktion mit Excel und Testprogramm. Erstellt mit Autoit und VBA."
   - project:
     title: Prozessoptimierung
     link: "#"
     tagline: "Zeitersparnis für die Technische Abteilung von Variosystems. Interaktion mit Excel, Outlook, Aegis ,Clipboard, SAP. 
-    Erstellt mit FSharp, Autoit und VBA"
+    Erstellt mit FSharp, Autoit und VBA."
   - project:
     title: Webcrawler
     link: "#"
@@ -26,12 +26,12 @@ projects:
   - project:
     title: Meine Webdesign Agentur
     link: ""
-    tagline: "Die Webseite meiner Agentur erstellt mit Wordpress"
+    tagline: "Die Webseite meiner Agentur erstellt mit Wordpress."
   - project:
     title: buegeln.services
     link: "https://buegeln.services"
-    tagline: "Die Webseite eines Bügelservices erstellt mit Jekyll"    
+    tagline: "Die Webseite eines Bügelservices erstellt mit Jekyll."    
   - project:
     title: Rbranches
     link: "#"
-    tagline: "Erstellung eines Branchenverzeichnisses mit RStudio"
+    tagline: "Erstellung eines Branchenverzeichnisses mit RStudio."
