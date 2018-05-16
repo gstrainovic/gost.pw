@@ -1,5 +1,4 @@
--intro: "-"
-
+intro: ""
 projects:
   - project:
     title: Prozessoptimierung
@@ -30,7 +29,7 @@ projects:
     tagline: "Die Webseite meiner Agentur erstellt mit Wordpress"
  - project:
     title: buegeln.services
-    link: "https://buegeln.services"
+    link: "#"
     tagline: "Die Webseite eines Bügelservices erstellt mit Jekyll"    
  - project:
     title: Rbranches
