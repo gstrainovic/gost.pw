@@ -1,4 +1,5 @@
-intro: ""
+intro: "-"
+
 projects:
   - project:
     title: Prozessoptimierung
@@ -14,7 +15,7 @@ projects:
     title: Webcrawler
     link: "#"
     tagline: "Durchforster einer Webseiten und speichern der Informationen in .csv. Ausfüllen von Formularfeldern mit diesen Informationen.
-    Erstellt mit FSharp, Fsharp.Data ,Docker ,Canopy auf Google Cloud Plattform"
+    Erstellt mit FSharp, Fsharp.Data ,Docker ,Canopy auf Google Cloud Plattform."
   - project:
     title: Visitenkarte/Flyer/Banner
     link: "#"
@@ -24,11 +25,11 @@ projects:
     link: "#"
     tagline: "Dieser Lebenslauf erstellt mit Jekyll"
  - project:
-    title: Strainovic-it.ch
-    link: "https://strainovic-it.ch"
+    title: Meine Webdesign Agentur
+    link: ""
     tagline: "Die Webseite meiner Agentur erstellt mit Wordpress"
  - project:
-    title: Strainovic-it.ch
+    title: buegeln.services
     link: "https://buegeln.services"
     tagline: "Die Webseite eines Bügelservices erstellt mit Jekyll"    
  - project:
