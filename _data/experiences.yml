@@ -37,3 +37,44 @@
     <li>Wartung der Testsysteme</li>
     <li>Prozessoptimierung mit selbstgeschriebener Software</li>
   </ul>"
+- experience:
+  role: Finanzberater im Nebenjob
+  time: 2002 – 2003
+  company: OVB, St.Gallen
+  details: "
+  <ul>
+    <li>Akquise und Terminierung</li>
+    <li>Krankenkassen, Versicherungen , Finanzprodukte usw. offerten erstellen mit bestehenden Verträgen vergleichen und Einsparungen präsentieren.</li>
+  </ul>"
+- experience:
+  role: Maschinenmonteur
+  time: 2001 – 2003
+  company: Inauen Maschinen AG , Herisau
+  details: "
+  <ul>
+    <li>Zusammenbau von Vakuumverpackungsmaschinen anhand von Zeichnungen</li>
+  </ul>"
+  - experience:
+  role: Maschinenmonteur
+  time:  2000 – 2001
+  company: Inauen Maschinen AG , Herisau
+  details: "
+  <ul>
+    <li>Zusammenbau von Vakuumverpackungsmaschinen anhand von Zeichnungen</li>
+  </ul>"
+    - experience:
+  role: Produktionsmitarbeiter
+  time:  2000 – 2001
+  company: Huber + Suhner AG , Herisau
+  details: "
+  <ul>
+    <li>Zusammenbau und Kalibration von GSM-Filter</li>
+  </ul>"
+      - experience:
+  role: Produktionsmitarbeiter
+  time: 1999 – 2000
+  company: Aluwag AG , Niederbüren
+  details: "
+  <ul>
+    <li>Stanzen und Schleifen von Aluminiumteile</li>
+  </ul>"
