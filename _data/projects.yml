@@ -8,11 +8,13 @@ projects:
   - project:
     title: Prozessoptimierung
     link: ""
-    tagline: "Zeitersparnis für die Technische Abteilung von Variosystems. Interaktion mit Excel, Outlook, Aegis ,Clipboard, SAP. Erstellt mit FSharp, Autoit und VBA"
+    tagline: "Zeitersparnis für die Technische Abteilung von Variosystems. Interaktion mit Excel, Outlook, Aegis ,Clipboard, SAP. 
+    Erstellt mit FSharp, Autoit und VBA"
   - project:
-    title: Tempo
-    link: "#"
-    tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+    title: Webcrawler / Spyder
+    link: ""
+    tagline: "Durchforster einer Webseiten und speichern der Informationen in .csv. Ausfüllen von Formularfeldern mit diesen Informationen.
+    Erstellt mit FSharp, Fsharp.Data ,Docker ,Canopy auf Google Cloud Plattform"
   - project:
     title: Atom
     link: "#"
