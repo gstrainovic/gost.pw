@@ -54,15 +54,7 @@
   <ul>
     <li>Zusammenbau von Vakuumverpackungsmaschinen anhand von Zeichnungen</li>
   </ul>"
-  - experience:
-  role: Maschinenmonteur
-  time:  2000 – 2001
-  company: Inauen Maschinen AG , Herisau
-  details: "
-  <ul>
-    <li>Zusammenbau von Vakuumverpackungsmaschinen anhand von Zeichnungen</li>
-  </ul>"
-    - experience:
+- experience:
   role: Produktionsmitarbeiter
   time:  2000 – 2001
   company: Huber + Suhner AG , Herisau
@@ -70,7 +62,7 @@
   <ul>
     <li>Zusammenbau und Kalibration von GSM-Filter</li>
   </ul>"
-      - experience:
+- experience:
   role: Produktionsmitarbeiter
   time: 1999 – 2000
   company: Aluwag AG , Niederbüren
