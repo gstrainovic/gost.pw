@@ -34,4 +34,8 @@ projects:
   - project:
     title: Rbranches
     link: "#"
-    tagline: "Erstellung eines Branchenverzeichnisses mit RStudio."
+    tagline: "Erstellung eines Branchenverzeichnisses mit R / RStudio."
+  - project:
+    title: Redmine (Projektmanagement Software), Odoo (ERP & CRM)
+    link: "#"
+    tagline: "Installation und Konfiguration."
