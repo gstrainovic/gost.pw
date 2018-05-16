@@ -15,3 +15,7 @@ projects:
     link: "#"
     tagline: "Durchforster einer Webseiten und speichern der Informationen in .csv. Ausfüllen von Formularfeldern mit diesen Informationen.
     Erstellt mit FSharp, Fsharp.Data ,Docker ,Canopy auf Google Cloud Plattform."
+  - project:
+    title: Visitenkarte - Flyer- Banner
+    link: "#"
+    tagline: "Design mit Photoshop, Ilustrator, Inkscape, Canva."
