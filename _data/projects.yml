@@ -15,24 +15,3 @@ projects:
     link: "#"
     tagline: "Durchforster einer Webseiten und speichern der Informationen in .csv. Ausfüllen von Formularfeldern mit diesen Informationen.
     Erstellt mit FSharp, Fsharp.Data ,Docker ,Canopy auf Google Cloud Plattform."
-  - project:
-    title: Visitenkarte/Flyer/Banner
-    link: "#"
-    tagline: "Design mit Photoshop, Ilustrator, Inkscape, Canva."
-  - project:
-    title: Lebenslauf
-    link: "#"
-    tagline: "Dieser Lebenslauf erstellt mit Jekyll"
- - project:
-    title: Meine Webdesign Agentur
-    link: ""
-    tagline: "Die Webseite meiner Agentur erstellt mit Wordpress"
- - project:
-    title: buegeln.services
-    link: "#"
-    tagline: "Die Webseite eines Bügelservices erstellt mit Jekyll"    
- - project:
-    title: Rbranches
-    link: "#"
-    tagline: "Datenextraktion für eines Branchenverzeichnisses mit R und RStudio"
- 
