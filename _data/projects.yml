@@ -2,24 +2,37 @@ intro: ""
 projects:
   - project:
     title: Prozessoptimierung
-    link: ""
+    link: "#"
     tagline: "Zeiterspranis für das ganze Prüffeld bei Variosystens, durch den Wegfall von manuellem Eintragungen in Excel.
     Interaktion mit Excel und Testprogramm. Erstellt mit Autoit und VBA"
   - project:
     title: Prozessoptimierung
-    link: ""
+    link: "#"
     tagline: "Zeitersparnis für die Technische Abteilung von Variosystems. Interaktion mit Excel, Outlook, Aegis ,Clipboard, SAP. 
     Erstellt mit FSharp, Autoit und VBA"
   - project:
-    title: Webcrawler / Spyder
-    link: ""
+    title: Webcrawler
+    link: "#"
     tagline: "Durchforster einer Webseiten und speichern der Informationen in .csv. Ausfüllen von Formularfeldern mit diesen Informationen.
     Erstellt mit FSharp, Fsharp.Data ,Docker ,Canopy auf Google Cloud Plattform"
   - project:
-    title: Atom
+    title: Visitenkarte/Flyer/Banner
     link: "#"
-    tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+    tagline: "Design mit Photoshop, Ilustrator, Inkscape, Canva."
   - project:
-    title: Delta
+    title: Lebenslauf
     link: "#"
-    tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+    tagline: "Dieser Lebenslauf erstellt mit Jekyll"
+ - project:
+    title: Strainovic-it.ch
+    link: "https://strainovic-it.ch"
+    tagline: "Die Webseite meiner Agentur erstellt mit Wordpress"
+ - project:
+    title: Strainovic-it.ch
+    link: "https://buegeln.services"
+    tagline: "Die Webseite eines Bügelservices erstellt mit Jekyll"    
+ - project:
+    title: Rbranches
+    link: "#"
+    tagline: "Datenextraktion für eines Branchenverzeichnisses mit R und RStudio"
+ 
