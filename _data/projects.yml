@@ -1,14 +1,14 @@
-intro: "You can list your side projects or open source libraries in this section. Lorem ipsum dolor
-  sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus."
+intro: ""
 projects:
   - project:
-    title: Velocity
-    link: "#hook"
-    tagline: "A responsive website template designed to help startups promote, market and sell their products."
+    title: Prozessoptimierung
+    link: ""
+    tagline: "Zeiterspranis für das ganze Prüffeld bei Variosystens, durch den Wegfall von manuellem Eintragungen in Excel.
+    Interaktion mit Excel und Testprogramm. Erstellt mit Autoit und VBA"
   - project:
-    title: DevStudio
-    link: "#"
-    tagline: "A responsive website template designed to help web developers/designers market their services."
+    title: Prozessoptimierung
+    link: ""
+    tagline: "Zeitersparnis für die Technische Abteilung von Variosystems. Interaktion mit Excel, Outlook, Aegis ,Clipboard, SAP. Erstellt mit FSharp, Autoit und VBA"
   - project:
     title: Tempo
     link: "#"
