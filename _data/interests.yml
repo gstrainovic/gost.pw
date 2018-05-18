@@ -1,7 +1,15 @@
 - interest:
-  item: Filme
-  link:
+  item: Zeugnisse
+  link: https://gost.pw/assets/pdfs/Zeugnisse.pdf
 - interest:
-  item: Familie
-  link:
-
+  item: Diplome
+  link: https://gost.pw/assets/pdfs/Diplome.pdf
+- interest:
+  item: Dieser Lebenslauf
+  link: https://gost.pw/assets/pdfs/Lebenslauf.pdf  
+- interest:
+  item: Zeugnisse & Lebenslauf
+  link: https://gost.pw/assets/pdfs/Zeugnisse&Diplome-gost.pdf  
+- interest:
+  item: Zeugnisse & Lebenslauf
+  link: https://gost.pw/assets/pdfs/Lebenslauf&Zeugnisse&Diplome.pdf   
