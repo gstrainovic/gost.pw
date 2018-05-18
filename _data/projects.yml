@@ -20,20 +20,20 @@ projects:
     link: "#"
     tagline: "Design mit Photoshop, Illustrator, Inkscape, Canva."
   - project:
-    title: Lebenslauf
-    link: "#"
+    title: https://gost.pw
+    link: "https://gost.pw"
     tagline: "Dieser Lebenslauf erstellt mit Jekyll."
   - project:
     title: Meine IT / Webdesign Agentur
     link: "https://strainovic-it.ch"
     tagline: "Die Webseite meiner IT Agentur erstellt mit Wordpress."
   - project:
-    title: buegeln.services
+    title: https://buegeln.services
     link: "https://buegeln.services"
     tagline: "Die Webseite eines Bügelservices erstellt mit Jekyll."    
   - project:
     title: Rbranches
-    link: "#"
+    #link: "#"
     tagline: "Erstellung eines Branchenverzeichnisses mit R / RStudio."
   - project:
     title: Redmine (Projektmanagement Software), Odoo (ERP & CRM)
