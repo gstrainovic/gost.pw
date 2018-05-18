@@ -24,9 +24,9 @@ projects:
     link: "https://gost.pw"
     tagline: "Dieser Lebenslauf erstellt mit Jekyll."
   - project:
-    title: Meine IT / Webdesign Agentur
+    title: https://strainovic-it.ch
     link: "https://strainovic-it.ch"
-    tagline: "Die Webseite meiner IT Agentur erstellt mit Wordpress."
+    tagline: "Die Webseite meiner IT / Web Agentur erstellt mit Wordpress."
   - project:
     title: https://buegeln.services
     link: "https://buegeln.services"
