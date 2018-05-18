@@ -14,6 +14,8 @@
 
       {% if projekt.link %}
         <span class="project-title"><a href="{{ project.link }}">{{ project.title }}</a></span>
+      {% else %}   
+        <span class="project-title">{{ project.title }}</a></span>
       {% endif %}   
       
       {% if project.tagline %}
