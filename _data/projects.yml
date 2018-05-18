@@ -33,7 +33,7 @@ projects:
     tagline: "Die Webseite eines Bügelservices erstellt mit Jekyll."    
   - project:
     title: Rbranches
-    #link: "#"
+    link: "#"
     tagline: "Erstellung eines Branchenverzeichnisses mit R / RStudio."
   - project:
     title: Redmine (Projektmanagement Software), Odoo (ERP & CRM)
