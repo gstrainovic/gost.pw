@@ -12,14 +12,10 @@
   {% for project in site.data.projects.projects %}
     <div class="item">
 
-      <!-- <span class="project-title"><a href="{{ project.link }}">{{ project.title }}</a></span> -->
+      {% if projekt.link %}
+        <span class="project-title"><a href="{{ project.link }}">{{ project.title }}</a></span>
+      {% endif %}   
       
-      <span class="project-title">
-        {% if projekt.link %}
-          <a href="{{ project.link }}"></a>
-        {% endif %}
-      {{ project.title }}</span>
-
       {% if project.tagline %}
       - <span class="project-tagline">{{ project.tagline }}</span>
       {% endif %}
